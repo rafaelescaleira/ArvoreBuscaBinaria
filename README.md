@@ -43,6 +43,8 @@ Os algoritmos de inserção e remoção descritos acima não produzem árvores b
 
 Para enfrentar essa situação é preciso inventar algoritmos bem mais sofisticados e complexos de inserção e remoção; esses algoritmos fazem um rebalanceamento da árvore após cada inserção e cada remoção. Vou apenas citar dois termos técnicos pitorescos: há um pacote de algoritmos de inserção e remoção que produz árvores AVL; há um outro pacote que produz árvores rubro-negras.
 
+![img](https://i.imgur.com/MCPUiMJ.png)
+
 Execução do Programa (Teste)
 ----------------------------
 ![grab-landing-page](https://j.gifs.com/APGABz.gif)
