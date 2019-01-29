@@ -1,5 +1,7 @@
 Árvore de Busca Binária (Genérica)
 ==================================
+![Build](https://img.shields.io/bitbucket/pipelines/rafaelescaleira/abb.svg?logo=abb) ![License](https://img.shields.io/github/license/rafaelescaleira/abb.svg) ![Size](https://img.shields.io/github/repo-size/rafaelescaleira/abb.svg) ![Language](https://img.shields.io/github/languages/top/rafaelescaleira/abb.svg?colorB=orange)
+
 Esse repositório possui funções implementadas em linguagem C.
 Segue a lista das funções :
 
